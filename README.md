@@ -45,4 +45,4 @@ By building this project, the user gains hands-on experience with:
 -Safety Glasses Frame
 -Wires
 
-![Smart Glasses](images/glasses.jpeg)
+![Smart Glasses](glasses.jpeg)
