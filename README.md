@@ -50,4 +50,6 @@ The circuit diagram below shows the complete wiring for the Smart Glasses projec
 
 ![Circuit Diagram](circuit-diagram.jpeg)
 
+This image presents the final assembled Smart Glasses prototype, showcasing the hardware integration and overall build.
+
 ![Smart Glasses](glasses.jpeg)
