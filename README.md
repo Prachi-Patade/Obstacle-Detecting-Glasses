@@ -45,4 +45,9 @@ By building this project, the user gains hands-on experience with:
 -Safety Glasses Frame
 -Wires
 
+📡 Circuit Diagram
+The circuit diagram below shows the complete wiring for the Smart Glasses project. It includes the connections for the Arduino Nano, Ultrasonic Sensor, Buzzer, and LED used for obstacle detection and alerting.
+
+![Circuit Diagram](circuit-diagram.jpeg)
+
 ![Smart Glasses](glasses.jpeg)
